@@ -3,23 +3,16 @@ UnityProject/UserSettings/Layouts/default-2021.dwlt
 UnityProject/UserSettings/Search.settings
 
 #Luban
-Tools/Luban/
-Tools/Luban.ClientServer/
-Configs/.cache.meta
-GenerateDatas/
+#Tools/Luban/
+#Tools/Luban.ClientServer/
+#Configs/.cache.meta
+#GenerateDatas/
 
 #FileServer
-Tools/FileServer/AssetRoot
+#Tools/FileServer/AssetRoot
 
 UnityProject/ProjectSettings/CommonBurstAotSettings.json
 UnityProject/ProjectSettings/BurstAotSettings_StandaloneWindows.json
-
-#GameEventSourceGenerator
-Tools/GameEventSourceGenerator/.idea
-Tools/GameEventSourceGenerator/GameEventAnalyzer/bin
-Tools/GameEventSourceGenerator/GameEventAnalyzer/obj
-Tools/GameEventSourceGenerator/SourceGenerator/bin
-Tools/GameEventSourceGenerator/SourceGenerator/obj
-
-#openspec
-openspec/
+UnityProject/UserSettings/Layouts/CurrentMaximizeLayout.dwlt
+UnityProject/Assets/AssetArt/Atlas/UIRaw_Atlas_sheep.spriteatlas
+UnityProject/Assets/AssetArt/Atlas/UIRaw_Atlas_sheep.spriteatlas.meta
